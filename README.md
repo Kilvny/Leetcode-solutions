@@ -1,6 +1,10 @@
-# LeetCode Solutions
+# LeetCode Solutions  
+<center>
 
 ![LeetCode Logo](https://assets.leetcode.com/static_assets/public/images/LeetCode_logo.png)
+  
+</center>
+
 
 ## Table of Contents
 
