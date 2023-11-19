@@ -1,5 +1,5 @@
 # LeetCode Solutions  
-<center>
+<center style="display:'flex'">
 
 ![LeetCode Logo](https://assets.leetcode.com/static_assets/public/images/LeetCode_logo.png)
   
